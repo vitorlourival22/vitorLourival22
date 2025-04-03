@@ -2,7 +2,7 @@
 Bem Vindo(a) Ao Meu Perfil GitHub
 
 ## Sobre 
-Desenvolvedor apaixonado em criar aplicativos,jogos e websites.Cursando tecnico de informatica da internet a 3 anos,pratico e estudo diariamente com projetos reais.Assim melhorando minha logica e Ganhando Experiencia.Estou buscando uma oportunidade
+Desenvolvedor apaixonado em criar aplicativos,jogos e websites.Cursando tecnico de informatica da internet a 2 anos,pratico e estudo diariamente com projetos reais.Assim melhorando minha logica e Ganhando Experiencia.Estou buscando uma oportunidade
 
 ## Redes Sociais🌐
 
