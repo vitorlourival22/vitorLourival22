@@ -2,7 +2,7 @@
 Bem Vindo(a) Ao Meu Perfil GitHub
 
 ## Sobre 
-Desenvolvedor apaixonado em criar aplicativos e jogos.Formado em tecnico de informatica para internet,pratico e estudo diariamente com projetos reais.Assim melhorando minha logica e Ganhando Experiencia.
+Desenvolvedor apaixonado em criar aplicativos mobiles e jogos.Formado em tecnico de informatica para internet,pratico e estudo diariamente com projetos reais.Assim melhorando minha logica e Ganhando Experiencia.
 
 ## Redes Sociais🌐
 
